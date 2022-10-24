@@ -1,6 +1,6 @@
-# Robot Finds Kitten
+# Greed
 
-Simon Carless once described robotfindskitten as "less a game and more a way of life ... It's fun to wander around until you find a kitten, at which point you feel happy and can start again". I don't think I could have said it better myself!
+Greed is a game in which the player seeks to gather as many falling gems as possible. The game continues as long as the player wants more!
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ The project files and folders are organized as follows:
 ```
 
 root                    (project root folder)
-+-- rfk                 (source code for game)
++-- Greed                 (source code for game)
   +-- data              (data files for game)
   +-- game              (specific game classes)
   +-- __main__.py       (entry point for program)
